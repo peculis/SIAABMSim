@@ -21,3 +21,5 @@ The Data folder is placed at the same level as the src folder under the Project 
 The simulations configuration files are placed in the Input folder (see the structure of the Input folder) and the results from the Simulation are written in the Output folder.
 
 To execute SIAABMSim in Eclipse choose to run the main file, (SIAABMSimModel.java in the SIAABMSimModel package) as a Java program. The program will use the default configuration files (SimSettings.txt, Probabilities.txt and Organisations.txt) located in the Input folder.
+
+For a complete overview of SIAABMSim please click [here](https://github.com/peculis/SIAABMSim/blob/master/docs/SIAABMSimSimulationEnvironment.pdf).
