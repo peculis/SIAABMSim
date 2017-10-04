@@ -30,5 +30,5 @@ The simulations configuration files are placed in the Input folder (see the stru
 For a complete overview of SIAABMSim please see [here](https://github.com/peculis/SIAABMSim/blob/master/docs/SIAABMSimSimulationEnvironment.pdf).
 
 SIAABMSim was developed as part of a PhD Thesis and used for testing hypotheses.
-For the complete PhD Thesis please see  [here](https://github.com/peculis/SIAABMSim/blob/master/docs/RPeculis-PhDThesis-UniSA-Final.pdf).
+For the complete PhD Thesis please see  [here](https://github.com/peculis/SIAABMSim/blob/master/docs/RPeculis-PhDThesis-UniSA-Final.pdf). For all configuration files used in the simulation to test the hypotheses formulated by the thesis see [here](https://github.com/peculis/SIAABMSim/tree/master/docs/Simulation%20-%20Configuration%20Files).
 
