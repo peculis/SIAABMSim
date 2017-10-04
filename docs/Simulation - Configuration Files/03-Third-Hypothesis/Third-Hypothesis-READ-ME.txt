@@ -1,0 +1,5 @@
+See Thesis Section 6.4.4
+
+The simulation scenarios and results from testing the first and second hypotheses aresufficient for testing the third hypothesis.
+The tests kept the task constant and varied the population of actors representing a widevariation of knowledge, experience, and behaviour style. The results from testing thefirst and second hypotheses showed that variations in population of actors cause a widevariation of effectiveness, efficiency, cost and schedule.
+In conclusion the simulation results confirm the third hypothesis, i.e., variations inpeople’s knowledge, experience, personality and motivation cause variations in theeffectiveness, cost and schedule of software-intensive acquisitions. Higher levels ofknowledge and experience and constructive behaviours available in the population ofactors impact positively in effectiveness and in cost and schedule performance. Theconclusion reflects the reality of knowledge-based work where there is no machine orindustrial process involved. The knowledge-based process are in people and thereforesubject to people’s variation.
