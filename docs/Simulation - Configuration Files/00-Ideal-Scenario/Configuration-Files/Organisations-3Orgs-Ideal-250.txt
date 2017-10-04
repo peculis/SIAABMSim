@@ -1,0 +1,4 @@
+ORG	ORG1	0.2	Nil	Application						CEO	1	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0Manager	1	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0Expert	0	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0TeamLeader	3	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+TeamMember	15	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0ORG	ORG2	0.2	Capabilities	SysEng	SysArchitect						CEO	1	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0Manager	7	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0Expert	0	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0TeamLeader	20	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+TeamMember	100	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0ORG	ORG3	0.2	SoftEng	SoftDev						CEO	1	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0Manager	3	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0Expert	0	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0TeamLeader	27	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+TeamMember	135	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0

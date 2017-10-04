@@ -1,0 +1,2 @@
+ORG	ORG1	0.1	Application	Capabilities		SysEng	SysArchitect	SoftEng	SoftDev	CEO	1	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0Manager	33	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0Expert	0	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0TeamLeader	100	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0
+TeamMember	500	0.33	0.0	1.0	0.0	1.0	0.0	1.0	0.0
