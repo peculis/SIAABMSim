@@ -1,6 +1,6 @@
 ### Software Intensive Acquisition Agent-Based Modelling and Simulation (SIAABMSim)
 
-SIAABMSim was developed as part of a PhD Thesis by Dr Ricardo Peculis and used for testing hypotheses.
+SIAABMSim was developed as part of a PhD Thesis by Dr Ricardo Peculis and used for testing hypotheses formulated by the thesis.
 For the complete PhD Thesis please see  [here](https://github.com/peculis/SIAABMSim/blob/master/docs/RPeculis-PhDThesis-UniSA-Final.pdf).
 
 For a complete overview of SIAABMSim please see [here](https://github.com/peculis/SIAABMSim/blob/master/docs/SIAABMSimSimulationEnvironment.pdf).
