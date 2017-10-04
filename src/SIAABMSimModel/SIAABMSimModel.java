@@ -292,11 +292,11 @@ public class SIAABMSimModel extends SimpleModel{
 		//Creates Dependencies Display
 		//System.out.println("#### Create displayDependencies");
 		
-		//The following three lines will be commented out to reduce the graphic output - 5 Apr 2011
+		//The following three lines can be commented out to reduce the graphic output - 5 Apr 2011
 		
-		//displayDependencies = new Object2DDisplay(simConfiguration.getDependencySpace());
-		//displayDependencies.setObjectList(simConfiguration.getDependencies());
-		//displaySurface.addDisplayable(displayDependencies, "Dependencies");
+		displayDependencies = new Object2DDisplay(simConfiguration.getDependencySpace());
+		displayDependencies.setObjectList(simConfiguration.getDependencies());
+		displaySurface.addDisplayable(displayDependencies, "Dependencies");
 
 		//Created Actors Display
 		//System.out.println("#### Create displayActors");
