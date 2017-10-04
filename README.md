@@ -1,4 +1,4 @@
-Software Intensive Acquisition Agent-Based Modelling and Simulation (SIAABMSim)
+### Software Intensive Acquisition Agent-Based Modelling and Simulation (SIAABMSim)
 
 SIAABMSim was developed as part of a PhD Thesis by Dr Ricardo Peculis and used for testing hypotheses.
 
