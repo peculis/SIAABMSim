@@ -28,3 +28,7 @@ Note, the Data folder is placed at the same level as the src folder under the Pr
 The simulations configuration files are placed in the Input folder (see the structure of the Input folder) and the results from the Simulation are written in the Output folder.
 
 For a complete overview of SIAABMSim please see [here](https://github.com/peculis/SIAABMSim/blob/master/docs/SIAABMSimSimulationEnvironment.pdf).
+
+SIAABMSim was developed as part of a PhD Thesis and used for testing hypotheses.
+For the complete PhD Thesis please see  [here](https://github.com/peculis/SIAABMSim/blob/master/docs/RPeculis-PhDThesis-UniSA-Final.pdf).
+
