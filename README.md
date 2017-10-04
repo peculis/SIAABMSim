@@ -1,6 +1,6 @@
-Software Intensive Acquisition Agent-Based Modelling and Simulation
+Software Intensive Acquisition Agent-Based Modelling and Simulation (SIAABMSim)
 ================
-### Instructions to compile and execute SIAABMSimV8
+### Instructions to compile and execute SIAABMSim
 
 SIAABMSim was developed with Repast 3.1 in Eclipse SDK 3.4.2. Repast 3.1 is available from http://repast.sourceforge.net/repast_3
 
