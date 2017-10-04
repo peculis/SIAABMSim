@@ -3,6 +3,10 @@
 SIAABMSim was developed as part of a PhD Thesis by Dr Ricardo Peculis and used for testing hypotheses.
 For the complete PhD Thesis please see  [here](https://github.com/peculis/SIAABMSim/blob/master/docs/RPeculis-PhDThesis-UniSA-Final.pdf).
 
+For a complete overview of SIAABMSim please see [here](https://github.com/peculis/SIAABMSim/blob/master/docs/SIAABMSimSimulationEnvironment.pdf).
+
+For all configuration files used in the simulation to test the hypotheses formulated by the thesis see [here](https://github.com/peculis/SIAABMSim/tree/master/docs/Simulation%20-%20Configuration%20Files).
+
 ### Instructions to compile and execute SIAABMSim
 
 SIAABMSim was developed with Repast 3.1 in Eclipse SDK 3.4.2. Repast 3.1 is available from http://repast.sourceforge.net/repast_3
@@ -29,8 +33,4 @@ To execute SIAABMSim in Eclipse choose to run the main file, (SIAABMSimModel.jav
 Note, the Data folder is placed at the same level as the src folder under the Project workspace. The Data folder contains two folders (Input and Output).
 
 The simulations configuration files are placed in the Input folder (see the structure of the Input folder) and the results from the Simulation are written in the Output folder.
-
-For a complete overview of SIAABMSim please see [here](https://github.com/peculis/SIAABMSim/blob/master/docs/SIAABMSimSimulationEnvironment.pdf).
-
-For all configuration files used in the simulation to test the hypotheses formulated by the thesis see [here](https://github.com/peculis/SIAABMSim/tree/master/docs/Simulation%20-%20Configuration%20Files).
 
