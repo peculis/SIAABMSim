@@ -9,7 +9,7 @@ SIAABMSim was developed with Repast 3.1 in Eclipse SDK 3.4.2. Repast 3.1 is avai
 
 Eclipse is available from http://www.eclipse.org/downloads/
 
-SIAABMSimV8 was developed in compliance with Java Version 1.5 and compiled
+SIAABMSim was developed in compliance with Java Version 1.5 and compiled
 with Java Version 1.6.0_24 from Sun Microsystems, Inc.
 
 To compile and run the software the following External JARs are required:
